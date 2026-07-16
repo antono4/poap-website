@@ -1,5 +1,8 @@
 # POAP: Proof of Attendance Protocol Website
 
+> **Created by Antono**
+
+
 ## Setup
 
 Install dependencies & start:
