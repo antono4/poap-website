@@ -1,75 +1,32 @@
-<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
-<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
+# poap-website
 
-<h1 align="center">Project 👋</h1>
 
-<p align="center">
-  <strong></strong>
-</p>
 
-<p align="center">
-  <a href="https://github.com/antono4/poap-website"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/poap-website-blue?logo=github"></a>
-  <a href="https://antono4.github.io/poap-website/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-231-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-25 17:28:56 WIB-lightgrey">
-</p>
+## 📋 Overview
 
----
+This repository contains **231 files** and is built with the following technologies:
 
-## 📖 Tentang
+Node.js, JavaScript
 
-Repository **`poap-website`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/poap-website/`](https://antono4.github.io/poap-website/).
-
-## 🗂️ Struktur Proyek
-
-```
-poap-website/
-├── index.html          # Halaman utama (landing / portofolio)
-├── assets/             # Aset statis (css, js, img, vendor)
-├── forms/               # Form handler (PHP)
-└── public/              # POAP - Homepage  ->  https://antono4.github.io/poap-website/public/
-```
-
-## 🌐 Sub-Proyek / Demo
-
-Situs ini juga memuat beberapa sub-proyek (masing-masing punya `index.html` tersendiri):
-
-| Folder | Demo Live | Keterangan |
-|--------|-----------|-----------|
-| [`public`](./public) | [https://antono4.github.io/poap-website/public/](https://antono4.github.io/poap-website/public/) | POAP - Homepage |
-
-## 🛠️ Teknologi
-
-Berdasarkan isi repository, proyek ini menggunakan:
-
-- `HTML`
-- `SCSS`
-- `JavaScript`
-
-> Total **231 file** terdeteksi di repository.
-
-## 🚀 Menjalankan Secara Lokal
-
-Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+## 🚀 Quick Start
 
 ```bash
-# Tanpa dependency
-python3 -m http.server 8000
-# lalu buka http://localhost:8000
-
-# atau dengan PHP (untuk form handler di forms/)
-php -S localhost:8000
+npm install
+npm run dev
+npm run build
 ```
 
-## 📬 Kontak
+## ✨ Features
 
-- GitHub: [antono4](https://github.com/antono4)
-- Situs: [https://antono4.github.io/poap-website/](https://antono4.github.io/poap-website/)
+- 📝 Auto-generated documentation
 
-## 📄 Lisensi
+## 🛠️ Technologies
 
-Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
 
 ---
-
-<sub>README ini di-generate otomatis pada **2026-08-25 17:28:56 WIB** oleh GitHub Actions .</sub>
+*Last updated: 2026-08-25 17:34:05 WIB*
