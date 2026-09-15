@@ -1,1 +1,32 @@
-Last updated: 2026-09-15 21:58:19 WIB
+# poap-website
+
+
+
+## 📋 Overview
+
+This repository contains **231 files** and is built with the following technologies:
+
+Node.js, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-15 22:41:07 WIB*
